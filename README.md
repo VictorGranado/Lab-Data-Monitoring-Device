@@ -1,5 +1,5 @@
 # Lab-Data-Monitoring-Station
-A fully-featured, battery-powered environmental monitoring system capable of sensing key air quality parameters and environmental conditions. Designed for portability and long-term data logging with a user-friendly display and alert system.
+A fully-featured, battery-powered data monitoring system capable of sensing key air quality parameters and environmental conditions. Envisioned to be used in a chemical lab scenario to provide safety reading.Designed for portability and long-term data logging with a user-friendly display and alert system.
 
 ---
 
