@@ -1,8 +1,4 @@
-# Lab-Data-Monitoring-Device
-This project implements a portable device with a wall-mounted re-charging station, that senses a variety of gases and ambient conditions. It also includes an alarm system, BLE and web server.   
-
-# Portable Environmental Monitoring Station
-
+# Lab-Data-Monitoring-Station
 A fully-featured, battery-powered environmental monitoring system capable of sensing key air quality parameters and environmental conditions. Designed for portability and long-term data logging with a user-friendly display and alert system.
 
 ---
