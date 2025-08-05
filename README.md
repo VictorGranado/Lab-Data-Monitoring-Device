@@ -26,7 +26,7 @@ This project is a **Portable Environmental Monitoring Station** that measures a 
 
 ---
 
-## ✅ Features
+## Features
 
 - **Battery-powered**: Runs on a rechargeable Li-ion battery
 - **20x4 LCD**: Displays live sensor readings in real-time
